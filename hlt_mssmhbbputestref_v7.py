@@ -6576,7 +6576,8 @@ _customInfo['inputFiles']={}
 _customInfo['inputFiles'][True]  = "file:RelVal_Raw_GRun_DATA.root"
 _customInfo['inputFiles'][False] = "file:RelVal_Raw_GRun_MC.root"
 _customInfo['maxEvents' ]=  2000
-_customInfo['globalTag' ]= "SPR1574_STV1"
+_customInfo['globalTag' ]= "74X_HLT_mcRun2_asymptotic_fromSpring15DR_v0"
+
 _customInfo['inputFile' ]=  ['root://cms-xrd-global.cern.ch//store/mc/RunIISpring15Digi74/QCD_Pt-15to3000_TuneCUETP8M1_Flat_13TeV_pythia8/GEN-SIM-RAW/Flat_10_50_50ns_tsg_MCRUN2_74_V6-v1/00000/00529081-1EF1-E411-9BA2-0026189438EF.root']
 _customInfo['realData'  ]=  False
 from HLTrigger.Configuration.customizeHLTforALL import customizeHLTforAll
